@@ -1,5 +1,6 @@
 # 👨‍🏫 YBIGTA Educational Session
-This is a repository for submission of educational session assignments
+This is a repository for submission of educational session assignments <br>
+*(2022-01-06~2022-02-10)*
 
 Week 1: [Git](https://github.com/ssokeem/ybigta_ps/tree/master/0111%20git) <br>
 Week 2: [Pandas Numpy](https://github.com/ssokeem/ybigta_ps/tree/master/0113%20Pandas%20Numpy) <br>
