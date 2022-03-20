@@ -1,4 +1,4 @@
-# 👩‍💻 YBIGTA Educational Session
+# 👨‍🏫 YBIGTA Educational Session
 This is a repository for submission of educational session assignments
 
 Week 1: [Git](https://github.com/ssokeem/ybigta_ps/tree/master/0111%20git) <br>
